@@ -1,0 +1,17 @@
+D:\C# Programs\SerializationHandsOn\bin\Debug\net6.0\SerializationHandsOn.exe
+D:\C# Programs\SerializationHandsOn\bin\Debug\net6.0\SerializationHandsOn.deps.json
+D:\C# Programs\SerializationHandsOn\bin\Debug\net6.0\SerializationHandsOn.runtimeconfig.json
+D:\C# Programs\SerializationHandsOn\bin\Debug\net6.0\SerializationHandsOn.dll
+D:\C# Programs\SerializationHandsOn\bin\Debug\net6.0\SerializationHandsOn.pdb
+D:\C# Programs\SerializationHandsOn\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\C# Programs\SerializationHandsOn\obj\Debug\net6.0\SerializationHandsOn.csproj.AssemblyReference.cache
+D:\C# Programs\SerializationHandsOn\obj\Debug\net6.0\SerializationHandsOn.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\SerializationHandsOn\obj\Debug\net6.0\SerializationHandsOn.AssemblyInfoInputs.cache
+D:\C# Programs\SerializationHandsOn\obj\Debug\net6.0\SerializationHandsOn.AssemblyInfo.cs
+D:\C# Programs\SerializationHandsOn\obj\Debug\net6.0\SerializationHandsOn.csproj.CoreCompileInputs.cache
+D:\C# Programs\SerializationHandsOn\obj\Debug\net6.0\SerializationHandsOn.csproj.CopyComplete
+D:\C# Programs\SerializationHandsOn\obj\Debug\net6.0\SerializationHandsOn.dll
+D:\C# Programs\SerializationHandsOn\obj\Debug\net6.0\refint\SerializationHandsOn.dll
+D:\C# Programs\SerializationHandsOn\obj\Debug\net6.0\SerializationHandsOn.pdb
+D:\C# Programs\SerializationHandsOn\obj\Debug\net6.0\SerializationHandsOn.genruntimeconfig.cache
+D:\C# Programs\SerializationHandsOn\obj\Debug\net6.0\ref\SerializationHandsOn.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QOBWsooUycvez4sB36+HWxaoueVaOyMNfPu9bVWBgvOv3+Ln9YctWI58wLpd9LqhAoamDumdTvu3q/5yT5jmiw==",
+  "success": true,
+  "projectFilePath": "D:\\C# Programs\\SerializationHandsOn\\SerializationHandsOn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
